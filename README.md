@@ -51,7 +51,7 @@ RegisterNumber:  212222230170
 ```
 Halfsubtractor:
 
-Fullsubtractor:
+
 
 module exp4(a,b,difference,borrow);
 
@@ -64,6 +64,7 @@ assign difference = (a^b);
 assign borrow = (~a&b);
 
 endmodule
+fullsubtractor
 module exp4fulladder(a,b,c,difference,borrow);
 
 input a,b,c;
