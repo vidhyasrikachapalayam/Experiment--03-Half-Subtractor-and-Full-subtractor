@@ -93,8 +93,9 @@ Fullsubtractor
 
 ## Timing diagram 
 halfsubtractor
+![image](https://github.com/vidhyasrikachapalayam/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119477817/fee49656-6760-433a-82ee-4d408852da7c)
 
-![WhatsApp Image 2023-09-08 at 09 22 59](https://github.com/vidhyasrikachapalayam/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119477817/23edd873-50d6-4801-9236-e650728b3ffd)
+
 
 fullsubtractor
 ![WhatsApp Image 2023-09-08 at 09 22 46](https://github.com/vidhyasrikachapalayam/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119477817/97290d86-dc79-4bb5-8099-f17237630b6d)
