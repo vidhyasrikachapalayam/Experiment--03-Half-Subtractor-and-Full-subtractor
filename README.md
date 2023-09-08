@@ -79,6 +79,11 @@ endmodule
 ## Output:
 
 ## Truthtable
+halfsubtractor
+![WhatsApp Image 2023-09-08 at 09 38 40](https://github.com/vidhyasrikachapalayam/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119477817/03e20fff-25b6-4d26-a683-b63ff3bbad0b)
+
+fullsubtractor
+![WhatsApp Image 2023-09-08 at 09 38 40](https://github.com/vidhyasrikachapalayam/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119477817/8b09687b-de5e-46da-92c9-982eb9de5dbb)
 
 
 
