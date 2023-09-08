@@ -49,9 +49,9 @@ Developed by: vidhyasri.k
 RegisterNumber:  212222230170
 
 ```
-Halfadder:
+Halfsubtractor:
 
-Fulladder:
+Fullsubtractor:
 
 module exp4(a,b,difference,borrow);
 
@@ -82,6 +82,12 @@ endmodule
 
 
 ##  RTL realization
+Halfsubtractor
+
+![halfadder](https://github.com/vidhyasrikachapalayam/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119477817/1d6faa0f-91fe-40b6-81a1-acb6bcb378c6)
+
+Fullsubtractor
+![fulladder](https://github.com/vidhyasrikachapalayam/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119477817/39ba1f20-dcb0-4c54-af7f-e031c291a24d)
 
 
 ## Timing diagram 
